@@ -1,0 +1,160 @@
+/* GENERAL */
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  background-color: whitesmoke;
+}
+
+/* HEADER */
+header {
+  background-color: white;
+  height: 70px;
+}
+.maintitle {
+  display: inline-block;
+  background-color: white;
+  font-size: 40px;
+  vertical-align: middle;
+  margin-top: 15px;
+}
+.logo {
+  vertical-align: middle;
+  background-color: white;
+  margin-left: 20px;
+  margin-bottom: 15px;
+}
+/* MAIN CONTENT */
+main {
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+/* BUTTONS */
+.buttons {
+  background-color: white;
+  padding-bottom: 10px;
+  margin-bottom: 2px;
+}
+#button1 {
+  background-size: contain;
+  background-color: rgb(44, 153, 204);
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+#button2 {
+  background-size: contain;
+  background-color: white;
+  color: gray;
+  border-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+/* CONTAINER */
+.container {
+  background-color: white;
+  padding-bottom: 10px;
+  margin-bottom: 2px;
+}
+
+/* PARAGRAPH */
+.paragraph {
+  font-size: 20px;
+  background-color: white;
+  display: inline-block;
+  margin-top: auto;
+}
+
+/* TITLE */
+.title {
+  display: inline-block;
+  background-color: white;
+}
+
+/* ICON */
+.remove {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 10px;
+  color: rgb(150, 0, 0);
+  border: 1px solid;
+  border-radius: 50%;
+  background-color: white;
+  margin-left: 60px;
+}
+.check {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 14px;
+  color: #4dc68f;
+  border: 1px solid;
+  border-radius: 50%;
+  background-color: white;
+  margin-left: 60px;
+}
+#dart {
+  display: inline-block;
+  background-color: white;
+  margin-left: 50px;
+  font-size: 40px;
+  vertical-align: middle;
+  text-align: center;
+}
+#editorial {
+  background-color: rgb(44, 153, 204);
+  border-radius: 12px;
+  padding: 5px;
+  color: white;
+}
+
+/* BACKGROUND WORDS */
+#editorial {
+  background-color: rgb(44, 153, 204);
+  border-radius: 12px;
+  padding: 5px;
+  color: white;
+}
+#Q1Goals {
+  background-color: purple;
+  border-radius: 12px;
+  padding: 5px;
+  color: white;
+}
+#Recruiting {
+  background-color: lightgreen;
+  border-radius: 12px;
+  padding: 5px;
+  color: white;
+}
+#Mobile {
+  background-color: orange;
+  border-radius: 12px;
+  padding: 5px;
+  color: white;
+}
+#Website {
+  background-color: palevioletred;
+  border-radius: 12px;
+  padding: 5px;
+  color: white;
+}
+#Sales {
+  background-color: olivedrab;
+  border-radius: 12px;
+  padding: 5px;
+  color: white;
+}
